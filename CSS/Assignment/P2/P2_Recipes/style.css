@@ -1,0 +1,96 @@
+* {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+    background-image: url(https://imgs.search.brave.com/1PIgd7NN-dAK-JOOVdbGpQgccUxKXBbBYT5Wr0g_T4s/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/bWFnbmlmaWMuY29t/L3ByZW1pdW0tcGhv/dG8vY2FwdHVyaW5n/LWFydC1kZWxpY2lv/dXMtZm9vZC1mcm9t/LWV2ZXJ5LWFuZ2xl/XzY0MTUwMy04NzA1/OS5qcGc_c2VtdD1h/aXNfaHlicmlkJnc9/NzQwJnE9ODA);
+}
+
+
+#title {
+    background-color: rgb(3, 11, 46);
+    background-image: none;
+    padding: 40px;
+    color: azure;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 1000;
+    font-size: 70px;
+    text-align: center;
+}
+
+
+img {
+    text-align: center;
+    background-color: rgb(112, 112, 119);
+    background-image: none;
+    width: 700px;
+    height: auto;
+    padding: 10px;
+}
+
+
+.Dish {
+    background-color: beige;
+    background-image: none;
+    font-weight: 700;
+    font-size: 30px;
+    color: black;
+}
+
+p {
+    background-color: beige;
+    background-image: none;
+    color: black;
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    padding: 25px;
+}
+
+ul {
+    background-color: beige;
+    background-image: none;
+    color: black;
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    text-align: left;
+}
+
+ol {
+    background-color: beige;
+    background-image: none;
+    color: black;
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    text-align: left;
+}
+li {
+    background-color: rgb(172, 144, 93);
+    background-image: none;
+    color: black;
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    text-align: left;
+}
+
+
+button {
+    background-color: azure;
+    background-image: none;
+    padding: 15px 30px;
+    font-size: 20px;
+}
+
+
+button a {
+    background-image: none;
+    color: rgb(3, 11, 46);
+    text-decoration: none;
+}
+
+
+#symbol {
+    height: 200px;
+    width: auto;
+    padding: 10px;
+}

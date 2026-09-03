@@ -1,0 +1,20 @@
+*{
+    color:purple;
+}
+div{
+    color: black;
+}
+.alert-text{
+    color: red;
+}
+#title{
+    background-color: red;
+    font-size: 40px;
+    font-weight: 900;
+}
+.subsection.header{
+    color: red;
+}
+*{
+    background-color: bisque;
+}
